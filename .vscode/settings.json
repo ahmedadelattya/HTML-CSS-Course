@@ -1,0 +1,16 @@
+﻿{
+  "editor.inlineSuggest.enabled": false,
+  "cursor.cpp.disabledLanguages": [
+    "html",
+    "css",
+    "javascript",
+    "typescript",
+    "json",
+    "markdown",
+    "plaintext"
+  ],
+  "github.copilot.enable": {
+    "*": false
+  },
+  "github.copilot.editor.enableAutoCompletions": false
+}
